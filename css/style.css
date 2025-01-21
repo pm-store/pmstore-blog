@@ -113,6 +113,7 @@ body {
     background-size: cover;
     background-position: center;
     position: relative;
+    border-bottom: solid 1px grey;
 }
 
 .hero::after {
